@@ -30,7 +30,7 @@
     "cors": "2.8.5",
     "debug": "4.4.0",
     "express": "4.21.2",
-    "grenache-nodejs-http": "0.7.13",
+    "grenache-nodejs-http": "1.0.1",
     "grenache-nodejs-link": "1.0.0",
     "grenache-nodejs-ws": "git+https://github.com:bitfinexcom/grenache-nodejs-ws.git",
     "morgan": "1.10.0",
