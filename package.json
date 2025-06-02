@@ -32,7 +32,7 @@
     "express": "4.21.2",
     "grenache-nodejs-http": "1.0.1",
     "grenache-nodejs-link": "1.0.2",
-    "grenache-nodejs-ws": "git+https://github.com:bitfinexcom/grenache-nodejs-ws.git",
+    "grenache-nodejs-ws": "1.0.0",
     "morgan": "1.10.0",
     "winston": "3.3.3",
     "ws": "8.18.1"
