@@ -150,6 +150,12 @@ if (pathExcLogger) {
       format: combineFormat({ enableColor: enableColorPathExcLogger })
     })
   ]
+} else {
+  excLogTransports = [
+    new transports.Console({
+      format: combineFormat()
+    })
+  ]
 }
 if (pathError) {
   logTransports.error = new transports.File({
